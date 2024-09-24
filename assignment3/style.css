@@ -1,0 +1,12 @@
+body {
+color: green;
+font-family: Verdana, Arial;
+font-weight: normal;
+font-size: 25px;
+background-color: rgb(206,222,132);
+
+}
+
+.center {
+	text-align: center;
+}
